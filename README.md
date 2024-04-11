@@ -1,3 +1,3 @@
 Features at Global level explaining the Customer Churn prediction
 
-![output](https://github.com/Adigo45/MasterThesis/assets/86388354/f56d3bac-1e70-4c5b-a6af-8ee71ddd23bf)
+<img width="937" alt="BeeswarmPlot" src="https://github.com/Adigo45/MasterThesis/assets/86388354/0088e276-d0dd-4f34-89ed-396c60bd365e">
