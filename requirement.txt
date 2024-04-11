@@ -1,0 +1,12 @@
+pandas
+sklearn
+seaborn
+numpy
+lime
+shap
+imblearn
+xgboost
+matplotlib
+keras
+tensorflow
+pandas-profiling
