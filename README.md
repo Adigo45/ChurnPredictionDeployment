@@ -40,7 +40,8 @@ a Flask web application, providing an easy-to-use interface for users to input c
 
 - ### Data Cleaning:
   Processed and cleaned the dataset to handle missing values and outliers.
-- ### Exploratory Data Analysis:
+- ** Exploratory Data Analysis: **
+  
   Explored the dataset to understand the underlying patterns and relationships.
 - ### Model Selection:
   Evaluated multiple machine learning algorithms and selected the best-performing one for customer
@@ -92,16 +93,26 @@ README.md
 
 - ### Installation
    - 1. Clone the repository:
-        https://github.com/Adigo45/ChurnPredictionDeployment
+        ```terminal
+        git clone https://github.com/Adigo45/ChurnPredictionDeployment
+        ```
    - 2. Navigate to the project directory:
-        cd CustomerChurnDeployment
+        ```terminal
+        cd ChurnPredictionDeployment
+        ```
    - 3. Install the required packages:
+        ```python
         pip install -r requirements.txt
+        ```
 
 ## 7. Usage
 - 1. Run the Flask application:
-  python app.py 
+  ``` terminal
+  python app.py
+  ```
+   
 - 2. Open a web browser and navigate to http://127.0.0.1:5000 to access the application.
+     
 - 3. Fill in the customer details in the form and click on the "Predict" button to get the churn prediction.
 
 ## 8. Contributing
