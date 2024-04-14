@@ -40,8 +40,7 @@ a Flask web application, providing an easy-to-use interface for users to input c
 
 - ### Data Cleaning:
   Processed and cleaned the dataset to handle missing values and outliers.
-- ** Exploratory Data Analysis: **
-  
+- ### Exploratory Data Analysis:
   Explored the dataset to understand the underlying patterns and relationships.
 - ### Model Selection:
   Evaluated multiple machine learning algorithms and selected the best-performing one for customer
